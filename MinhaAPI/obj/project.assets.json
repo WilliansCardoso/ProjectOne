@@ -2440,11 +2440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\work\\newcategoriac\\newcategoriac_geradorversao\\MinhaAPI\\MinhaAPI\\MinhaAPI.csproj",
+      "projectUniqueName": "C:\\estudo\\ProjectOne\\MinhaAPI\\MinhaAPI.csproj",
       "projectName": "MinhaAPI",
-      "projectPath": "C:\\work\\newcategoriac\\newcategoriac_geradorversao\\MinhaAPI\\MinhaAPI\\MinhaAPI.csproj",
+      "projectPath": "C:\\estudo\\ProjectOne\\MinhaAPI\\MinhaAPI.csproj",
       "packagesPath": "C:\\Users\\Willians Cardoso\\.nuget\\packages\\",
-      "outputPath": "C:\\work\\newcategoriac\\newcategoriac_geradorversao\\MinhaAPI\\MinhaAPI\\obj\\",
+      "outputPath": "C:\\estudo\\ProjectOne\\MinhaAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Willians Cardoso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2510,6 +2510,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -2518,7 +2536,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
